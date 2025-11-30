@@ -1,6 +1,6 @@
 # Projeto Final de Ciência de Dados: Previsão de Churn de Clientes de Telecomunicações
 
-## **Alunos:** Leandro Pellegrini e Vítor Celestino
+### **Alunos:** Leandro Pellegrini e Vítor Celestino
 
 ---
 
