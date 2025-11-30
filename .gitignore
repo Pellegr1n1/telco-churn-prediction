@@ -33,9 +33,6 @@ wheels/
 *.json
 !requirements.txt
 
-# Models (opcional - descomente se não quiser versionar o modelo)
-# *.pkl
-
 # IDEs
 .vscode/
 .idea/
