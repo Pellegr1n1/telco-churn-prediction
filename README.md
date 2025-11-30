@@ -35,7 +35,9 @@ O repositório está organizado com a seguinte estrutura:
 ├── modelo_final_joblib.pkl   # Modelo salvo com joblib
 ├── DATA_LAKEHOUSE.md         # Documentação do Lakehouse
 └── PICKLE_VS_JOBLIB.md       # Comparação pickle vs joblib
-```### Como Rodar o Projeto
+```
+
+### Como Rodar o Projeto
 
 1.  **Clone o repositório:**
 
